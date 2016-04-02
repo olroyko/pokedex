@@ -1,0 +1,15 @@
+/dist
+/.tmp
+/bower_components
+/node_modules
+/test
+/.idea
+/app
+/bower.json
+/.bowerrc
+/package.json
+/.gitattributes
+/.yo-rc.json
+/.editorconfig
+/gulpfile.babel.js
+/.babelrc
