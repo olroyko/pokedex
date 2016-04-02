@@ -10,7 +10,7 @@ Application uses Pokeapi V1. See documentation at [pokeapi docs]
 
 ### Branches
 Repository holds two branches:
-- gh-pages - distribution branch, try it at [here]
+- gh-pages - distribution branch, try application [here]
 - master - branch for developing and testing
 
 ### Basic usage
